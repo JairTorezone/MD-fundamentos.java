@@ -35,4 +35,7 @@ public class Main_ConversaoFouC {
 	public static double converterParaFahrenheit(double celsius) {
 		return celsius * 1.8 + 32;
 	}
+	
+	//proximo aula 3.17
+	
 }
